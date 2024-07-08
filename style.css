@@ -1,6 +1,8 @@
 * {
   margin: 0;
   padding: 0;
+  font-family: sans-serif;
+  text-align: center;
 }
 
 body {
@@ -14,9 +16,8 @@ header .nav-bar ul {
 }
 
 header .nav-bar ul li a {
+  color: #b21104;
   text-decoration: none;
-  color: red;
-  font-family: sans-serif;
   font-weight: bold;
 }
 
@@ -36,4 +37,74 @@ main .logo-img{
 main .lineup-img {
   width: 1000px;
   margin: 0 15%;
+}
+main .tickets p {
+  margin-bottom: 20px;
+}
+
+main .tickets .ticket-btn {
+  background-color: #b21104;
+  color: white;
+  width: 200px;
+  height: 40px;
+  font-weight: bolder;
+  border: none;  
+  margin: auto;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+p {
+  color: white;
+  font-size: 20px;
+}
+main .newsletter form input {
+  width: 300px;
+  height: 37px;
+}
+
+main .newsletter-box .newsletter {
+  display: flex;
+  justify-content: space-around;
+}
+main .newsletter-box .newsletter .newsletter-form .subscription-terms {
+  font-weight: bolder;
+}
+
+main .newsletter-box .newsletter .newsletter-form .input-email {
+  text-align: left;
+}
+
+main .newsletter-box .newsletter .newsletter-signup {
+  background-color: #b21104;
+  color: white;
+  width: 200px;
+  height: 40px;
+  font-weight: bolder;
+  border: none;  
+  margin: auto;
+  text-decoration: none;
+}
+main .newsletter-box .newsletter .newsletter-form .subscription-terms {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  margin-top: 15px;
+}
+main .social-media {
+  margin-top: 60px;
+}
+main .social-media .links nav ul li{
+  display: inline;
+}
+main .social-media .links nav ul li a {
+  color: #b21104;
+}
+
+footer img {
+  width: 330px;
+  height: 50px;
+  margin-top: 20px;
 }
