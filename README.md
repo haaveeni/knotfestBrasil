@@ -1,6 +1,4 @@
-# 📅 KnotFest 2024 - São Paulo/Brasil
-
-
+# 📅 KnotFest 2024 - São Paulo/Brasil 🎸🔥
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/haaveeni/knotfestBrasil?color=%23b21104">
