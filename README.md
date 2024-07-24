@@ -1,16 +1,18 @@
 # 📅 KnotFest 2024 - São Paulo/Brasil
 
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/haaveeni/knotfestBrasil?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/haaveeni/knotfestBrasil">
+
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/haaveeni/knotfestBrasil?color=%23b21104">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/haaveeni%2FknotfestBrasil?color=%23b21104">
   
   <a href="https://github.com/haaveeni/plannerDeViagem/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/haaveeni/knotfestBrasil">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/haaveeni/knotfestBrasil?color=%23b21104">
   </a>
   
    <a href="">
-    <img alt="Feito pela Veridiana Lucena" src="https://img.shields.io/badge/feito-por%20Veridiana%20Lucena-D818A5">
+    <img alt="Feito pela Veridiana Lucena" src="https://img.shields.io/badge/feito%20por%20-Veridiana-b21104">
    </a>
    
    <a href="https://github.com/haaveeni/knotfestBrasil/stargazers">
